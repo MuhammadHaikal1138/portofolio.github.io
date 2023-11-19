@@ -134,3 +134,11 @@ nav ul li a {
 .third h3 {
     text-align: center;
 }
+.kaki {
+    margin-top: 20px;
+    background-color: white;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
